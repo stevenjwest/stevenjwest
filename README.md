@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+##### About me
+
+- 🔭 I’m currently working on open source projects to help analyse immunofluorescence data.
+
+
 <!--
 **stevenjwest/stevenjwest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
