@@ -5,6 +5,8 @@
 
 - 🔭 I’m currently working on open source projects to help analyse immunofluorescence data.
 
+- 🌱 I’m currently learning big data image analysis.
+
 
 <!--
 **stevenjwest/stevenjwest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
